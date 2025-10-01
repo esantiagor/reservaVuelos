@@ -1,0 +1,7 @@
+Django>=5
+djangorestframework
+psycopg2-binary
+celery[redis]
+django-celery-beat
+django-redis
+python-decouple
